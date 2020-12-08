@@ -1,0 +1,11 @@
+li{display:inline-flex;margin: 15px;}   
+li:first-child{margin-left: 0px;padding-left: 0px;}
+ul{margin-left: 0px;padding-left: 0px;background-color: darkblue;}
+li.currentpage{background-color: #6699CC;}
+li:hover{background-color: lightblue;}
+li.input{border: aqua;}
+
+a.front:visited{color:yellow}
+a.home:hover{color:Blue;font-weight:bold;}
+a.back:active{color:red;font-style:italic;}
+input.een:focus{color:green;font-size:20px}
